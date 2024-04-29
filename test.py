@@ -1,2 +1,2 @@
-print("Hello World")
-input("Eingabe von Antwort)
+print("Hello World! usw.")
+input("Eingabe von Antwort")
